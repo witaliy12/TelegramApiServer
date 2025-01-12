@@ -353,3 +353,4 @@ Full list of custom methods and their parameters available in [ApiExtensions cla
 * Donations:
     * BTC: `1BE1nitXgEAxg7A5tgec67ucNryQwusoiP`
     * ETH: `0x0e2d369E28DCA2336803b9dE696eCDa50ff61e27`
+
